@@ -22,6 +22,6 @@ numpy~=1.20.1
 importlib_metadata~=3.7.3
 langdetect~=1.0.9
 webrtcvad~=2.0.10
-pyjwt~=2.0.1
+pyjwt~=2.1.0
 markdown~=3.3.4
 sounddevice==0.4.1

@@ -18,7 +18,7 @@ importlib_metadata==3.7.3
 langdetect==1.0.9
 webrtcvad==2.0.10
 PyAudio==0.2.11
-pyjwt==2.0.1
+pyjwt==2.1.0
 markdown==3.3.4
 ProjectAlice-sk
 sounddevice==0.4.1
