@@ -6,7 +6,7 @@ esptool==3.0
 pyserial==3.5
 pydub==0.25.1
 PyYAML==5.4.1
-flask==1.1.2
+flask==2.0.1
 flask-classful==0.14.2
 pympler==0.9
 Flask-Cors==3.0.10
